@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Martin (he/him)
 - 👀 I’m interested in statistical programming and data visualisation
-- 🌱 Currently deeply into [Observable JS](https://observablehq.com)
+- 🌱 Currently digging into [Observable JS](https://observablehq.com)
 - 📪 Feel free to contact me <a href="mailto:martin.arnold@vwl.uni-due.de">via mail</a>
 
 <!---
