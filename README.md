@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Martin (he/him)
-- 👨‍🏫 Research associate in Econometrics @ UDE
+- 👨‍🏫 Research Associate in Econometrics @ UDE
 - 🖥️ Statistical programming, fable for data visualization
 - 👨🏽‍💻 [StackOverflow](https://stackoverflow.com/users/3834139/martin-c-arnold)
 - 🌱 Currently digging into [Observable](https://observablehq.com)
