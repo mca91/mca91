@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Martin (he/him)
-- 👀 Statistical programming and data visualisation
-- 🌱 Currently digging into [Observable JS](https://observablehq.com)
+- 👨‍🏫 Research associate in Econometrics @ UDE
+- 🖥️ Statistical programming, fable for data visualization
+- 👨🏽‍💻 [StackOverflow](https://stackoverflow.com/users/3834139/martin-c-arnold)
+- 🌱 Currently digging into [Observable](https://observablehq.com)
 - 📪 Feel free to contact me <a href="mailto:martin.arnold@vwl.uni-due.de">via mail</a>
 
 <!---
