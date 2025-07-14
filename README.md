@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Martin (he/him)
-- 👨‍🏫 PhD in Econometrics
+- 👨‍🏫 PhD (Econometrics)
 - 👨🏽‍💻 Data Scientist Deep Learning
-- 🖥️ Statistical programming, fable for data visualization
+- 🖥️ Statistical programming, data visualization
 - 🔗 [StackOverflow](https://stackoverflow.com/users/3834139/martin-c-arnold)
 - 🏠 [Homepage](https://www.logodds.de/)
 - 🌱 Currently digging into [Observable](https://observablehq.com)
